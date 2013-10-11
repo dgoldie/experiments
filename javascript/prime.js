@@ -3,7 +3,7 @@
 // the function will calculate the prime for each argument
 //
 // $ node is_prime.js 71 13 497
-//
+
 
 var Prime = function ( num ) {
     //num = parseInt(number);
